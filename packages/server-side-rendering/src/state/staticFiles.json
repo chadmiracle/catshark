@@ -1,0 +1,26 @@
+[
+  {
+    "names": [
+      "cognito-react-nodejs-example--__index.map"
+    ],
+    "generatedName": "-__index.09ec59878146fabd9f3a1655509f51cb.map.json"
+  },
+  {
+    "names": [
+      "cognito-react-nodejs-example--__index-bundle.js"
+    ],
+    "generatedName": "-__index-bundle.0c63b507a7a26429ee8f94bcf94e956a.js"
+  },
+  {
+    "names": [
+      "cognito-react-nodejs-example-posts.map"
+    ],
+    "generatedName": "posts.278866316da0c13d955de0d331be6f41.map.json"
+  },
+  {
+    "names": [
+      "cognito-react-nodejs-example-posts-bundle.js"
+    ],
+    "generatedName": "posts-bundle.adf3336faeaa9f14f7454cda2c35780d.js"
+  }
+]
